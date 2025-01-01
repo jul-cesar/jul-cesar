@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 <a href="https://api.statusbadges.me/openspotify/625492348842934272" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/625492348842934272" alt="spotify"></a>
 
+<img src="https://api.statusbadges.me/badge/vscode/625492348842934272" alt="vscode">
+
