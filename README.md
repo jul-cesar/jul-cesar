@@ -1,5 +1,5 @@
 ## Hi there 👋
- im just tryna make it
+ just tryna make it
 <!--
 **jul-cesar/jul-cesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
