@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ I’m currently learning about everything
 <!--
 **jul-cesar/jul-cesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
